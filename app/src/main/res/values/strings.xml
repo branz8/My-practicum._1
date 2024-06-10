@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My practicum (exam)</string>
+    <string name="clear_data">Clear Data</string>
+    <string name="view_details">View Details</string>
+    <string name="weather_app">Weather App</string>
+    <string name="todo">TODO</string>
+</resources>
